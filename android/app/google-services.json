@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "103115219712",
+    "project_id": "vortex-chat-app",
+    "storage_bucket": "vortex-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103115219712:android:a8b694e28b1b3ba429c9e5",
+        "android_client_info": {
+          "package_name": "com.example.vortex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103115219712-jb8pehb5skivqtfsch59p1hr3f369p7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vortex",
+            "certificate_hash": "f540c4cbdc9ddbed91d581f2359ba5b86e2a10d2"
+          }
+        },
+        {
+          "client_id": "103115219712-mkfl9b5id3s57upoeu44ue75qa86viq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsq1quI7Ty77oFIIQxsauh_YBf2hdlwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103115219712-mkfl9b5id3s57upoeu44ue75qa86viq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103115219712-skevmqof7shs96gmrkh2eckoh1hdi9ac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vortex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
