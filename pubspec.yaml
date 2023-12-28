@@ -17,7 +17,7 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   # for integrating firebase
-  firebase_core: ^2.15.1
+  firebase_core: ^2.24.2
   
   # for handling firebase authentication
   firebase_auth: ^4.9.0
